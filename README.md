@@ -1,60 +1,54 @@
 <h1 align="center">Hi, I'm Rubab Fatima 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer | Learning Python</b>
+  <b>Frontend Developer | Exploring Python</b>  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&width=435&lines=Frontend+Developer;Next.js+Learner;Exploring+Python;Passionate+About+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Learner;Exploring+Python;Passionate+About+Coding" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🚀 About Me  
-💡 Passionate about web development and creating seamless user experiences.  
+## 🚀 About Me  
+💡 Passionate about **web development** and creating **seamless user experiences.**  
 📚 Skilled in **HTML, CSS, JavaScript, Next.js**.  
-🐍 Currently exploring **Python**.  
+🐍 Currently exploring **Python & Backend Technologies.**  
+
+📌 **Fun Fact:** I love **problem-solving & coding challenges!** 🤓✨  
 
 ---
 
-### 🔧 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+## 🛠️ Tech Stack  
+### **Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)  
+
+### **Currently Learning:**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![Backend Development](https://img.shields.io/badge/Backend%20Development-Exploring-blue)  
 
 ---
 
-### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/rubii22)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubab-fatima-3636242b5/)  
-
----
-
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubii22&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubii22&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubii22&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubii22&theme=radical" alt="GitHub Streak">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubii22&theme=radical" alt="GitHub Contribution Graph">
 </p>
 
 ---
 
-⭐ **Fun Fact:** *I love solving coding challenges and exploring new technologies!* 🚀
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/rubii22"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
+---
 
-<!--
-**rubii22/rubii22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **If you like my work, consider giving my repositories a star!** 🌟
