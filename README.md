@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Rubab Fatima 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer</b>
+  <b>Frontend Developer|Exploring Python </b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Learner;Exploring+Python;Passionate+About+Coding" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Frontend+Developer;Exploring+Python;Passionate+About+Coding" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 💡 Passionate about **web development** and creating **seamless user experiences.**  
-📚 Skilled in **HTML, CSS, JavaScript, Next.js**.  
+📚 Skilled in **HTML, CSS, JavaScript, Next.js, React.js**.  
 🐍 Currently exploring **Python & Backend Technologies.**  
 
 📌 **Fun Fact:** I love **problem-solving & coding challenges!** 🤓✨  
