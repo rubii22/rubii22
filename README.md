@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubab Fatima 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer|Exploring Python </b>
+  <b>Frontend Developer|Python Developer</b>
 </p>
 
 <p align="center">
