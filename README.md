@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubab Fatima 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer|Python Developer</b>
+  <b>Full Stack Developer</b>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 ## 🚀 About Me  
 💡 Passionate about **web development** and creating **seamless user experiences.**  
-📚 Skilled in **HTML, CSS, JavaScript, Next.js, React.js**.  
-🐍 Currently exploring **Python & Backend Technologies.**  
+📚 Skilled in **HTML, CSS, JavaScript, Next.js, React.js, Python, Database, Neon**.  
+  
 
 📌 **Fun Fact:** I love **problem-solving & coding challenges!** 🤓✨  
 
