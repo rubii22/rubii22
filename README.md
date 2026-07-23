@@ -1,54 +1,140 @@
-<h1 align="center">Hi, I'm Rubab Fatima 👋</h1>
+<!-- ============================== -->
+<!--          HEADER               -->
+<!-- ============================== -->
+
+<div align="center">
+
+# Hi 👋 I'm Rubab Fatima
+
+### Full Stack Engineer • Building Modern Web Applications
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Next.js+%7C+React.js+%7C+TypeScript;Python+Developer;Cyber+Security+Student;Hackathon+Participant;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rubii22&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Full Stack Engineer** and **Cyber Security student** from Pakistan with **2+ years of hands-on experience** building modern, responsive, and scalable web applications.
+
+I enjoy transforming ideas into real products through clean architecture, intuitive UI, and maintainable code.
+
+Over the past few years, I've built multiple real-world projects, participated in **5+ hackathons**, and continuously expanded my knowledge in modern web technologies, AI, and Cyber Security.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🔹 Building Full Stack Web Applications
+- 🔹 Learning Agentic AI
+- 🔹 Exploring Cyber Security
+- 🔹 Improving Backend Development
+- 🔹 Participating in Hackathons
+- 🔹 Writing Cleaner & Scalable Code
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <b>Full Stack Developer</b>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,python,postgres,git,github,vscode,vercel&perline=7"/>
+
 </p>
+
+---
+
+# 💻 What I Do
+
+- Full Stack Web Development
+- Responsive Business Websites
+- Portfolio Websites
+- SaaS Dashboards
+- Landing Pages
+- API Integration
+- Performance Optimization
+- Bug Fixing
+- Python Automation
+- UI Development
+- Modern Frontend Architecture
+
+---
+
+# 🏆 Highlights
+
+- 💻 2+ Years of Development Experience
+- 🏆 Participated in 5+ Hackathons
+- 🚀 Built Multiple Real-World Projects
+- 🌱 Learning AI, Agentic AI & Cyber Security
+- ⚡ Passionate About Clean Code & Modern UI
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubii22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubii22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rubii22&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubii22&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rubii22&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Frontend+Developer;Exploring+Python;Passionate+About+Coding" alt="Typing Animation" />
+
+<a href="https://github.com/rubii22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me  
-💡 Passionate about **web development** and creating **seamless user experiences.**  
-📚 Skilled in **HTML, CSS, JavaScript, Next.js, React.js, Python, Database, Neon**.  
-  
+<div align="center">
 
-📌 **Fun Fact:** I love **problem-solving & coding challenges!** 🤓✨  
+### 💭 *"Building solutions that are clean, scalable, and meaningful."*
 
----
+⭐ If you enjoy my work, consider giving a ⭐ to my repositories.
 
-## 🛠️ Tech Stack  
-### **Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)  
-
-### **Currently Learning:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![Backend Development](https://img.shields.io/badge/Backend%20Development-Exploring-blue)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubii22&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubii22&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubii22&theme=radical" alt="GitHub Contribution Graph">
-</p>
-
----
-
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/rubii22"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving my repositories a star!** 🌟
+</div>
