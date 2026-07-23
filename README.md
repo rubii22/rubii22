@@ -14,7 +14,7 @@
 
 ---
 
-# 01 / WHO I AM
+#  WHO I AM
 
 ```ts
 const rubab = {
@@ -44,7 +44,7 @@ const rubab = {
 
 ---
 
-# 02 / ABOUT
+#  ABOUT
 
 I enjoy building modern web applications that are fast, scalable, and easy to use.
 
@@ -54,7 +54,7 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 
 ---
 
-# 03 / CURRENT FOCUS
+# CURRENT FOCUS
 
 ```text
 ▸ Full Stack Web Development
@@ -76,7 +76,7 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 
 ---
 
-# 04 / STACK I WORK WITH
+# STACK I WORK WITH
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 
 ---
 
-# 05 / EXPERIENCE
+#  EXPERIENCE
 
 > Building modern web applications with performance, scalability and user experience in mind.
 
@@ -110,7 +110,7 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 
 ---
 
-# 06 / HACKATHONS
+#  HACKATHONS
 
 🏆 AI Hackathons
 
@@ -124,7 +124,7 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 
 ---
 
-# 07 / SELECTED WORK
+#  SELECTED WORK
 
 <table>
 
@@ -168,7 +168,7 @@ Modern shopping experience with scalable architecture.
 
 ---
 
-# 08 / DEVELOPMENT INSIGHTS
+#  DEVELOPMENT INSIGHTS
 
 <div align="center">
 
@@ -198,27 +198,9 @@ Modern shopping experience with scalable architecture.
 
 ---
 
-# 10 / GITHUB TROPHIES
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rubii22&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
-</div>
-
----
-
-# 11 / CONTRIBUTION SNAKE
-
-> ⚠️ Snake animation will work after adding the GitHub Action workflow (I'll give it in Part 3).
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rubii22/rubii22/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 12 / CURRENT JOURNEY
 
@@ -293,6 +275,86 @@ Learning:
 <a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 15 / OPEN SOURCE & LEARNING
+
+<div align="center">
+
+| Focus | Status |
+|:------|:------:|
+| Full Stack Development | ██████████ 100% |
+| React & Next.js | ██████████ 100% |
+| TypeScript | █████████░ 90% |
+| Backend Development | ████████░░ 80% |
+| Python | █████████░ 90% |
+| AI & Agentic AI | ███████░░░ 70% |
+| Cyber Security | ██████░░░░ 60% |
+
+</div>
+
+---
+
+# 16 / DEVELOPMENT PHILOSOPHY
+
+```text
+
+Write clean code.
+
+Build meaningful products.
+
+Keep learning.
+
+Share knowledge.
+
+Stay consistent.
+
+```
+
+---
+
+# 17 / FAVORITE TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,vercel,postman,npm,powershell&perline=8"/>
+
+</div>
+
+---
+
+# 18 / PROFILE VIEWS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rubii22&style=for-the-badge&color=000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:161b22,100:0d1117"/>
 
 </div>
 
