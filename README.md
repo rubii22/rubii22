@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:161b22,100:0d1117&text=Rubab%20Fatima&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descSize=18&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:050505,40:111827,70:1E293B,100:334155&text=Rubab%20Fatima&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;Next.js+%7C+React.js+%7C+TypeScript;Python+Developer;Cyber+Security+Student;Hackathon+Participant;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Experiences;Next.js+%7C+React.js+%7C+TypeScript;Python+Developer;Hackathon+Participant;AI+%26+Cyber+Security+Enthusiast"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rubii22&style=flat-square&color=ffffff"/>
+<img src="https://komarev.com/ghpvc/?username=rubii22&style=for-the-badge&label=Visitors&color=2563EB"/>
 
 </div>
 
@@ -50,7 +50,7 @@ I enjoy building modern web applications that are fast, scalable, and easy to us
 
 Over the past two years, I've worked on real-world projects, participated in hackathons, and continuously improved my skills across frontend and backend development.
 
-Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic AI**, and **Cyber Security** while continuing to build full-stack applications.
+Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic AI**, and **Cyber Security** while continuing to build full-stack web applications.
 
 ---
 
@@ -75,12 +75,13 @@ Currently I'm expanding my knowledge in **Artificial Intelligence**, **Agentic A
 ```
 
 ---
-
 # STACK I WORK WITH
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,firebase,git,github,vercel,vscode&perline=6"/>
+| Frontend | Backend | Database | Tools |
+|----------|----------|----------|----------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/> | <img src="https://skillicons.dev/icons?i=nodejs,python"/> | <img src="https://skillicons.dev/icons?i=postgres,firebase"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/> <br><br> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> |
 
 </div>
 
@@ -198,11 +199,7 @@ Modern shopping experience with scalable architecture.
 
 ---
 
-
-
-
-
-# 12 / CURRENT JOURNEY
+#  CURRENT JOURNEY
 
 ```text
 
@@ -236,7 +233,7 @@ Cyber Security
 
 ---
 
-# 13 / CURRENTLY EXPLORING
+#  CURRENTLY EXPLORING
 
 ```yaml
 Frontend:
@@ -261,22 +258,6 @@ Learning:
   - Agentic AI
   - Cyber Security
 ```
-
----
-
-# 14 / CONNECT
-
-<div align="center">
-
-<a href="https://github.com/rubii22">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -316,17 +297,28 @@ Stay consistent.
 
 ---
 
-# 17 / FAVORITE TOOLS
+#  FAVORITE TOOLS
 
 <div align="center">
+    
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,vercel,postman,npm,powershell&perline=8"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+</p>
 
 </div>
 
 ---
 
-# 18 / PROFILE VIEWS
+ PROFILE VIEWS
 
 <div align="center">
 
@@ -350,11 +342,18 @@ while(alive)
 
 </div>
 
----
+
+#  CONNECT
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:161b22,100:0d1117"/>
+<a href="https://github.com/rubii22">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rubab-fatima-3636242b5/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -365,5 +364,10 @@ while(alive)
 ### Thanks for visiting my profile 🤍
 
 *"Code is more than syntax — it's the art of solving problems."*
+
+</div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2f3542,50:57606f,100:a4b0be"/>
 
 </div>
