@@ -189,7 +189,7 @@ Modern shopping experience with scalable architecture.
 
 ---
 
-# 09 / CONTRIBUTION GRAPH
+# CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -261,7 +261,7 @@ Learning:
 
 ---
 
-# 15 / OPEN SOURCE & LEARNING
+#  OPEN SOURCE & LEARNING
 
 <div align="center">
 
@@ -279,7 +279,7 @@ Learning:
 
 ---
 
-# 16 / DEVELOPMENT PHILOSOPHY
+#  DEVELOPMENT PHILOSOPHY
 
 ```text
 
